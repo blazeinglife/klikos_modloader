@@ -89,7 +89,7 @@ Follow these instructions to install Kliko's modloader.
 
 <ol>
     <li>
-        Download and install the <a href="https://github.com/TheKliko/klikos-modloader/releases/latest">latest release</a>.
+        Download and install the <a href="">latest release</a>.
     </li>
     <li>
         Run the 'Modloader Menu' shortcut to adjust your settings and configure your mods.
