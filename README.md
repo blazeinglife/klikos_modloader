@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="GitHub Files/Images/banner.png" alt="banner"/>
+<img src="[GitHub Files/Images/banner.png](https://play-lh.googleusercontent.com/oQe_lQU_JK36sE15Uyo0blRDMc3fCkwJs6Mpz4M6Hq2XpYlW11_ppB0vLq7GUUZ5zA)" alt="banner"/>
 
 [<img alt="GitHub License" src="https://img.shields.io/github/license/thekliko/klikos-modloader?style=for-the-badge&labelColor=cc0037&color=353639">](https://github.com/TheKliko/klikos-modloader/blob/main/LICENSE)
 [<img alt="GitHub Release" src="https://img.shields.io/github/v/release/thekliko/klikos-modloader?filter=!v*.*.*-beta&style=for-the-badge&labelColor=cc0037&color=353639">](https://github.com/thekliko/klikos-modloader/releases/latest)
